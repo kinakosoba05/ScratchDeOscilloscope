@@ -1,1 +1,3 @@
 # ScratchDeOscilloscope
+
+ラグくてScratchに共有できないのでTurboWarpからダウンロードしたHTMLファイルをここに残す。
